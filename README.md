@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Parmeet Singh
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning about git and github
 - 📫 You can reach me at psparmeet14@gmail.com
 
 <!---
