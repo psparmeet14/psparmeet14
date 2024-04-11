@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parmeet Singh
+- 👋 Hi, I’m Parmeet Singh Bhogal
 - 👀 I’m interested in software development
 - 📫 You can reach me at psparmeet14@gmail.com
 
